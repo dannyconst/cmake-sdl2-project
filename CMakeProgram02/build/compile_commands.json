@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Danny/Projects/C++/CMakeProgram02/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/cmake_program.dir/includes_CXX.rsp -g -o CMakeFiles\\cmake_program.dir\\src\\main.cpp.obj -c C:\\Users\\Danny\\Projects\\C++\\CMakeProgram02\\src\\main.cpp",
+  "file": "C:/Users/Danny/Projects/C++/CMakeProgram02/src/main.cpp",
+  "output": "CMakeFiles/cmake_program.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Danny/Projects/C++/CMakeProgram02/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/cmake_program.dir/includes_CXX.rsp -g -o CMakeFiles\\cmake_program.dir\\src\\game.cpp.obj -c C:\\Users\\Danny\\Projects\\C++\\CMakeProgram02\\src\\game.cpp",
+  "file": "C:/Users/Danny/Projects/C++/CMakeProgram02/src/game.cpp",
+  "output": "CMakeFiles/cmake_program.dir/src/game.cpp.obj"
+},
+{
+  "directory": "C:/Users/Danny/Projects/C++/CMakeProgram02/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/cmake_program.dir/includes_CXX.rsp -g -o CMakeFiles\\cmake_program.dir\\src\\graphics.cpp.obj -c C:\\Users\\Danny\\Projects\\C++\\CMakeProgram02\\src\\graphics.cpp",
+  "file": "C:/Users/Danny/Projects/C++/CMakeProgram02/src/graphics.cpp",
+  "output": "CMakeFiles/cmake_program.dir/src/graphics.cpp.obj"
+}
+]
